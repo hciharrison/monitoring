@@ -1,2 +1,2 @@
 # Monitoring
-telegraf config and smaple dashboards for influxdb and grafana
+telegraf config and sample dashboards for influxdb and grafana
